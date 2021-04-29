@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Sheet",
+        "repositoryURL": "https://github.com/nashysolutions/Sheet.git",
+        "state": {
+          "branch": null,
+          "revision": "0082e5d4cc074356507a4d8e3ad8a0905611676b",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "Silver",
+        "repositoryURL": "https://github.com/nashysolutions/Silver.git",
+        "state": {
+          "branch": null,
+          "revision": "b16daaa13b52b1ef53a0500065cdb0891a980162",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
